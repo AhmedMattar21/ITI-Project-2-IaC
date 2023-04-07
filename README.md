@@ -4,14 +4,14 @@
 ![the design of the Infrastructure.](https://github.com/AhmedMattar21/ITI-Project-2-IaC/blob/master/aws-project-2-diagram.jpeg)  
 
 
-### Create Network Stack
+### Build Network Stack
 ```
 $ cd ITI-Project-2-IaC
 $ ./create "Network-Stack" network.yml network-parameters.json
 ```
 
 
-### Create Server Stack
+### Build Server Stack
 ```
 $ cd ITI-Project-2-IaC
 $ ./create "Server-Stack" server.yml server-parameters.json
