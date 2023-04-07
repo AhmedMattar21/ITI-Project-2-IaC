@@ -16,3 +16,5 @@ $ ./create "Network-Stack" network.yml network-parameters.json
 $ cd ITI-Project-2-IaC
 $ ./create "Server-Stack" server.yml server-parameters.json
 ```
+
+### 🔥 Now we have successfully built the whole infrastructure in just seconds.
