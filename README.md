@@ -1,1 +1,2 @@
-# ITI-Project-2-IaC
+## Project-2: Deploy a high-availability web app using CloudFormation
+
